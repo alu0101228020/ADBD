@@ -1,4 +1,4 @@
-# Informe de Base de Datos: Introducción a PostgreSQL.
+# Informe de Introducción a PostgreSQL.
 
 ## 1. Introducción.
 
